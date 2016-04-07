@@ -14,6 +14,7 @@ public class ClaseModificadaPorAmbos {
     public void hola2()
     {
         System.out.println("Hola2");
+        System.out.println("Hoy llueve");
     }
     
 }
